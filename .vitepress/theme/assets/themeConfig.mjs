@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Miracle Core",
     // 站点描述
-    description: "Hello World",
+    description: "miracle",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -14,16 +14,16 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "mike",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "",
+      link: "blog.miracle-core.com",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-07-28",
   // 每页文章数据
   postSize: 8,
   // inject
