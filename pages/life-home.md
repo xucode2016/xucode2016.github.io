@@ -4,3 +4,4 @@
 [(20251021) Good Response for ChatGPT](/pages/20251021)<br>
 [(20251110) 与好友的北京一日游](/pages/20251110)<br/>
 [(20260111) frpc的http启动错误](/pages/20260111)<br/>
+[(20260130) Dify.ai | 科技四巨头财报 | 程序员的呐喊](/pages/20260130.md)<br/>
